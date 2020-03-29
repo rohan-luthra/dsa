@@ -1,7 +1,0 @@
-Given a 2-D array of n x n
-
-Print the array in zigzag order, i.e. 
-first row from top to bottom 
-second row from bottom to top
-third row from top to bottom
-... and so on.
