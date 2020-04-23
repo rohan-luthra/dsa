@@ -1,0 +1,8 @@
+Solution:
+3
+
+# Explanation
+Many-to-Many relationship can be made by using 3 tables.
+Students(studentId (pk) , name, ....)
+Coruses(courseId (pk) , name , instructor, ...)
+StudentCourse( studentId (fk) , courseId (fk) )

@@ -1,0 +1,8 @@
+Soltuion:
+2
+
+# Explanation
+The key (a,b) is primary key. So the combination can determine each row in the table.
+ Option 2: a,d -> b
+    In this b alone cannot get the whole data for c,e.
+    So this is not a candidate key.

@@ -1,0 +1,10 @@
+Solution: 
+x=3
+y=5
+z=2
+
+
+# Explanation
+The given table is split into 2 tables.
+1. (productid (pk), price) => 3 rows
+2. (productid (fk), color) => 5 rows

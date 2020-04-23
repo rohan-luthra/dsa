@@ -1,0 +1,9 @@
+Solution:
+50
+1
+6
+
+# Explanation
+Its a natural join between R and S on column C.
+So the only value where A is 27 is [A B C D]={ ( 27 50 1 6  ) }
+Therefore the solution 50 1 6.

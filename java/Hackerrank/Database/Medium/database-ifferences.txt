@@ -1,0 +1,10 @@
+Solution:
+2
+3
+
+
+# Explanation
+R-S means removing the tupes from R that are present in S
+After removing we get { 4 2 3, 1 2 4}
+The the tupe with 4 * * is 4 2 3
+Therefore, the Solution is 2 3.

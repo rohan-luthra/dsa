@@ -1,0 +1,6 @@
+Solution: 6
+
+# Explanation
+The table is already in BCNF form (each row is a key) .
+To convert it into 4NF splitting the - { RestaurantName, Crust } && { RestaurantName, Delivery Area }
+The number of colums in each of the table would be then 6.
